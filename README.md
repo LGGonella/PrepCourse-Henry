@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio del Modulo 2 del PrepCourse de Henry
+Chino Gonella
+Prueba de como crear un repositorio y clonarlo desde githun a mi computadora
